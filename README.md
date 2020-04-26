@@ -9,12 +9,11 @@
 <a href="https://github.com/halo-dev/halo/commits"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/halo-dev/halo.svg?style=flat-square"></a>
 <a href="https://travis-ci.org/halo-dev/halo"><img alt="Travis CI" src="https://img.shields.io/travis/halo-dev/halo.svg?style=flat-square"/></a>
 </p>
-
 ------------------------------
 
 ## 简介
 
-**Halo** `[ˈheɪloʊ]`，意为光环。当然，你也可以当成拼音读(哈喽)。
+**Halo** `[ˈheɪloʊ]`，意为光环。当然，你也可以当成拼音读"哈喽"。
 
 一个优秀的开源博客发布应用，值得一试。
 
